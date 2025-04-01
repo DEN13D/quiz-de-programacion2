@@ -1,0 +1,66 @@
+.fondo{
+    display: flex;
+background-color: black;
+
+}
+.parte1{
+width: 40%;
+margin-left: 70px;
+}
+.parte2{
+width: 60%;
+
+}
+.imagen{
+margin: none;
+margin-left: 20px;
+}
+.h1a{
+font-size: 80px;
+
+}
+.boton{
+background-color: brown;
+height: 50px;
+width: 150px;
+color: aliceblue;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.otrap{
+background-color: brown;
+display: flex;
+justify-content: center;
+  align-items: center;
+  
+}
+.h1b{
+color: wheat;
+font-size: 60px;
+
+}
+.texto1{
+text-align: center;
+width: 50%;
+}
+.letra1{
+color: white;
+
+}
+.cuadros{
+display: flex;
+background-color: brown;
+}
+.cuadro1{
+    background-color:white ;
+    width: 20%;
+    height:250px ;
+    margin-top: 20px;
+    margin-left: 60px;
+
+}
+.imagen2{
+width: 100px;
+height: 100px;
+margin-left: 50px;
+}
